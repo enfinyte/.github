@@ -1,8 +1,8 @@
-## Performant and Intuitive Software Monitoring Infrastructure For All
+## Open AI Infrastructure Appplications
 
-[Join the WaitList](https://www.evenscribe.com)
+[Join the mailing list](https://www.enfinyte.com)
 
 Solutions:
-- Log Storage and Searching
-- Continous eBPF Profiler
-- Application Tracing
+- Open-source smart LLM routing
+- Context Perssistance for LLM applications
+- LLM Application Tracing
